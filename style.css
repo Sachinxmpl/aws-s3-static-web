@@ -1,0 +1,18 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin-top: 100px;
+}
+h1 {
+  color: #1977d4;
+}
+
+button {
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+img{
+    width: 800px;
+    object-fit: contain;
+}
